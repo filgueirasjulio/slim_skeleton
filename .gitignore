@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/.vscode
+/.docker
+docker-compose.override.yml
+/node_modules
